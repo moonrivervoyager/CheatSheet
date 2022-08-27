@@ -1,0 +1,46 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+header{text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color:aqua;
+	font-weight: bold;}
+.tag{
+	background-color: darkslateblue;
+	color: aqua;
+	font-weight: bold;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	letter-spacing: 2px;
+
+}
+
+.code{
+	font-family: "courier new", "Consolas", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "Monaco", "Courier New", "monospace";
+	background: gray;
+}
+
+.describe{
+	background-color: ghostwhite;
+	color: darkblue;
+
+}
+
+table{
+	border-collapse: collapse;
+	width: auto;
+}
+
+td, th{
+	border:2px solid;
+	padding: 0.5rem; 
+	text-align: left;
+}
+
+th{color: aqua}
+
+.center{
+	margin-left: auto;
+	margin-right: auto;
+}
